@@ -2,13 +2,11 @@
 import React, { useState } from "react";
 import {
   Trees,
-  ChevronLeft,
   Search,
   Package,
   Star,
   ShoppingCart,
   ArrowUpRight,
-  Book,
 } from "lucide-react";
 import { useRouter } from "next/navigation";
 import Head from "next/head";

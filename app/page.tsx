@@ -1,8 +1,6 @@
 "use client";
 import React, { useState } from "react";
 import {
-  Menu,
-  X,
   Compass,
   Home,
   Droplet,

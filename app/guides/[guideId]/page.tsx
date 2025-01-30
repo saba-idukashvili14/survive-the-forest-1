@@ -16,7 +16,6 @@ import {
   Pen,
   Menu,
   Youtube,
-  BookOpen,
 } from "lucide-react";
 
 type Guide = {
